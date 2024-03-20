@@ -1,6 +1,6 @@
 # Welcome to the Youtube Summarizer by Lyzr!
 
-![Lyzr Logo](logo\lyzr-logo.png)
+![Lyzr Logo](./logo/lyzr-logo.png)
 
 The YouTube Summarizer Application is a powerful tool designed to condense lengthy YouTube videos into concise summaries, providing users with quick access to key information without the need to watch the entire video. This innovative application utilizes Lyzr's QABot Agent to analyze video content and generate accurate summaries.
 

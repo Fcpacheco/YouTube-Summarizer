@@ -15,11 +15,11 @@ st.set_page_config(
 )
 
 # Load and display the logo
-image = Image.open("./logo/lyzr-logo.png")
+image = Image.open("./logo/youtube-processor-logo.webp")
 st.image(image, width=150)
 
 # App title and introduction
-st.title("YouTube Summarizer by Lyzr")
+st.title("YouTube Processor by Lyzr")
 st.markdown("### Welcome to the YouTube Summarizer!")
 st.markdown("YouTube Summarizer by Lyzr will providing users with quick access to key information without the need to watch the entire video.")
 
